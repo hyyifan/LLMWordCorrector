@@ -41,9 +41,10 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 
 **正常使用后界面如下所示：**
    
-    ![image](https://github.com/user-attachments/assets/fc98e771-0e1a-4d92-9fcc-09f0e0dd8a74)
+![image](https://github.com/user-attachments/assets/367fbcdf-f4bd-4986-b347-79b856d4cfdd)
 
-    ![image](https://github.com/user-attachments/assets/c9b878be-4e9d-406f-a9f2-50bea1d43121)
+
+![image](https://github.com/user-attachments/assets/c9b878be-4e9d-406f-a9f2-50bea1d43121)
 
 
 ## 联系我们
