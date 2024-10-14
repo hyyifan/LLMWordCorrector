@@ -16,7 +16,7 @@ WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，主要是利
 
 ## 如何使用
 
-1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 WordLLMChecker 应用，链接：
+1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 WordLLMChecker 应用：
 
             通过百度网盘分享的文件：LLMWordCorrector.exe
             链接：https://pan.baidu.com/s/1aAKecvyoC_5rOlcGvjKmPg?pwd=s3bc 
