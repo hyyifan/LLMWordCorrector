@@ -19,7 +19,8 @@ WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，利用百炼
 1. **安装**：下载并安装 WordLLMChecker 应用，链接：
 2. **上传文件**：打开应用，上传您的 docx 或 doc 格式文件。
 ![image](https://github.com/user-attachments/assets/19ee362d-6472-4d83-898e-94cc2460c073)
-3.**输入Qwen大模型key**: 前往阿里云百炼大模型平台（https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home）注册账号，获得api key，并进行输入。
+3.**输入Qwen大模型key**: 前往阿里云百炼大模型平台（https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home）
+   注册账号，获得api key，并进行输入。
    ![image](https://github.com/user-attachments/assets/9f8f4d74-ec4c-4029-9602-a88df6b9ea7d)
 4.**开始处理**：点击后软件即开始运行，运行过程之中请关注进度内容。
 5. **自动纠错**：软件将自动分析文件内容，并在原文上进行批注。
