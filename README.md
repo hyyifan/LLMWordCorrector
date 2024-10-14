@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，利用百炼大模型 qwen-plus API 提供中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正文档中的语法错误、错别字和用词不当，能够直接在原文上进行批注，从而提升文档的专业性和准确性。
+WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，主要是利用阿里云百炼大模型 qwen-plus API （https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123CqDVFV#/model-market/detail/qwen-plus-latest）提供中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正文档中的语法错误、错别字和用词不当，能够直接在原文上进行批注，从而提升文档的专业性和准确性。
 
 ## 功能特点
 
