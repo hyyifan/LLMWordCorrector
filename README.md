@@ -15,7 +15,6 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 我们非常欢迎开源社区的贡献者参与到 LLMWordCorrector 的持续改进中来。如果您在使用过程中遇到任何问题，或者有任何改进建议，都欢迎通过 GitHub 的 Issue 功能提出。此外，我们也非常期待新朋友加入我们的维护团队，共同推动项目的发展。
 
 ## 如何使用
-
 1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 LLMWordCorrector 应用：
 
             链接: https://pan.baidu.com/s/1tPLH7ntzExda2xf3FoQtRQ?pwd=6qsr 提取码: 6qsr
@@ -29,8 +28,7 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 3.**输入Qwen大模型key**: 前往[阿里云百炼大模型平台](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home)注册账号，获得api key，并进行输入。
   
   ![image](https://github.com/user-attachments/assets/9f8f4d74-ec4c-4029-9602-a88df6b9ea7d)
-
-
+  
 4.**开始处理**：点击后软件即开始运行，运行过程之中请关注进度内容。
 
 
