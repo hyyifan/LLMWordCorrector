@@ -1,21 +1,14 @@
-# WordLLMChecker: 您的专业中文写作助手
+# WordLLMChecker: 专业的文档纠错助手
 
 ## 项目简介
 
-WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，它利用了先进的 qwen API 大型语言模型（LLM）来提供强大的中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正 docx 或 doc 格式文件中的语法错误、错别字和用词不当，直接在原文上进行批注，从而提升文档的专业性和准确性。
+WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，利用百炼大模型 qwen-plus API 提供中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正文档中的语法错误、错别字和用词不当，能够直接在原文上进行批注，从而提升文档的专业性和准确性。
 
 ## 功能特点
 
 - **自动读取与分析**：用户只需上传 docx 或 doc 格式的文件，WordLLMChecker 即可自动读取内容并分析潜在的语文错误。
 - **智能批注**：软件会在原文上直接进行批注，指出错误并提供修改建议，使错误一目了然。
-- **数据隐私保护**：我们深知数据隐私的重要性，因此与阿里爸爸合作，确保所有数据处理均符合最高隐私保护标准。
-- **基于 Python 开发**：利用 Python 的强大库支持，WordLLMChecker 提供了稳定而高效的文本处理能力。
-
-## 技术亮点
-
-- **qwen API 大型语言模型**：我们的软件基于阿里云提供的 qwen API，这是一个超大规模的语言模型，能够理解和生成自然语言内容。
-- **本地数据处理**：为了保护用户隐私，所有文本处理都在本地完成，不涉及数据上传至云端。
-- **用户友好的界面**：我们的设计团队精心打造了直观的用户界面，确保用户能够轻松上手。
+- **数据隐私保护**：本软件不做任何数据库存储，直接通过互联网，将您的文本交由 qwen-plus进行分析。
 
 ## 开源贡献
 
@@ -23,14 +16,19 @@ WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，它利用了
 
 ## 如何使用
 
-1. **安装**：下载并安装 WordLLMChecker 应用。
+1. **安装**：下载并安装 WordLLMChecker 应用，链接：
 2. **上传文件**：打开应用，上传您的 docx 或 doc 格式文件。
-3. **自动纠错**：软件将自动分析文件内容，并在原文上进行批注。
-4. **查看结果**：您可以查看批注，接受或拒绝修改建议。
+![image](https://github.com/user-attachments/assets/19ee362d-6472-4d83-898e-94cc2460c073)
+3.**输入Qwen大模型key**: 前往阿里云百炼大模型平台（https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home）注册账号，获得api key，并进行输入。
+   ![image](https://github.com/user-attachments/assets/9f8f4d74-ec4c-4029-9602-a88df6b9ea7d)
+4.**开始处理**：点击后软件即开始运行，运行过程之中请关注进度内容。
+5. **自动纠错**：软件将自动分析文件内容，并在原文上进行批注。
+6. **查看结果**：打开你的word文件，并关注进度内容。 目前存在技术难题，部分批注无法显示在word文件之中，需要在进度栏查看。
 
+ 
 ## 联系我们
 
 如果您有任何问题或想要了解更多关于 WordLLMChecker 的信息，请通过以下方式联系我们：
 
-- **邮箱**：[youremail@example.com](mailto:youremail@example.com)
+- **邮箱**：hyyifan7@163.com
 - **GitHub 仓库**：[https://github.com/yourusername/WordLLMChecker](https://github.com/yourusername/WordLLMChecker)
