@@ -9,6 +9,7 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 - **自动读取与分析**：用户上传 docx 或 doc 格式的文件，LLMWordCorrector 即可自动读取内容并分析潜在的文本错误。
 - **智能批注**：软件会在原文上直接进行批注，指出错误并提供修改建议，使错误一目了然。
 - **数据隐私保护**：本软件不涉及数据存储，直接通过互联网，将您的文本切片交由 qwen-plus进行分析，如数据泄露，与本项目无关。
+- **价格优惠**:qwen-plus 价格每千tokens只需要0.0008元，分析一次文本成本在几分到几毛钱。
 
 ## 开源贡献
 
@@ -25,7 +26,7 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
     ![image](https://github.com/user-attachments/assets/19ee362d-6472-4d83-898e-94cc2460c073)
 
 
-3.**输入Qwen大模型key**: 前往[阿里云百炼大模型平台](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home)注册账号，获得api key，并进行输入。
+3.**输入Qwen大模型key**: 前往[阿里云百炼大模型平台](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home)注册账号，获得，[api key](https://bailian.console.aliyun.com/?apiKey=1#/api-key)并进行输入。
   
   ![image](https://github.com/user-attachments/assets/9f8f4d74-ec4c-4029-9602-a88df6b9ea7d)
   
