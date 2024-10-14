@@ -1,22 +1,22 @@
-# WordLLMChecker: 专业的文档纠错助手
+# LLMWordCorrector: 专业的文档纠错助手
 
 ## 项目简介
 
-WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，主要是利用[阿里云百炼大模型 qwen-plus](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123CqDVFV#/model-market/detail/qwen-plus-latest)提供中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正文档中的语法错误、错别字和用词不当，能够直接在原文上进行批注，从而提升文档的专业性和准确性。
+LLMWordCorrector 是一款基于 Python 开发的 Windows 端应用，主要是利用[阿里云百炼大模型 qwen-plus](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123CqDVFV#/model-market/detail/qwen-plus-latest)提供中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正文档中的语法错误、错别字和用词不当，能够直接在原文上进行批注，从而提升文档的专业性和准确性。
 
 ## 功能特点
 
-- **自动读取与分析**：用户只需上传 docx 或 doc 格式的文件，WordLLMChecker 即可自动读取内容并分析潜在的语文错误。
+- **自动读取与分析**：用户只需上传 docx 或 doc 格式的文件，LLMWordCorrector 即可自动读取内容并分析潜在的语文错误。
 - **智能批注**：软件会在原文上直接进行批注，指出错误并提供修改建议，使错误一目了然。
 - **数据隐私保护**：本软件不做任何数据库存储，直接通过互联网，将您的文本交由 qwen-plus进行分析。
 
 ## 开源贡献
 
-我们非常欢迎开源社区的贡献者参与到 WordLLMChecker 的持续改进中来。如果您在使用过程中遇到任何问题，或者有任何改进建议，都欢迎通过 GitHub 的 Issue 功能提出。此外，我们也非常期待新朋友加入我们的维护团队，共同推动项目的发展。
+我们非常欢迎开源社区的贡献者参与到 LLMWordCorrector 的持续改进中来。如果您在使用过程中遇到任何问题，或者有任何改进建议，都欢迎通过 GitHub 的 Issue 功能提出。此外，我们也非常期待新朋友加入我们的维护团队，共同推动项目的发展。
 
 ## 如何使用
 
-1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 WordLLMChecker 应用：
+1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 LLMWordCorrector 应用：
 
             通过百度网盘分享的文件：LLMWordCorrector.exe
             链接：https://pan.baidu.com/s/1aAKecvyoC_5rOlcGvjKmPg?pwd=s3bc 
@@ -45,7 +45,7 @@ WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，主要是利
 
 ## 联系我们
 
-如果您有任何问题或想要了解更多关于 WordLLMChecker 的信息，请通过以下方式联系我们：
+如果您有任何问题或想要了解更多关于 LLMWordCorrector 的信息，请通过以下方式联系我们：
 
 - **邮箱**：hyyifan7@163.com
 - **GitHub 仓库**：https://github.com/hyyifan/LLMWordCorrector
