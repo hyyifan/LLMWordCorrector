@@ -31,4 +31,4 @@ WordLLMChecker 是一款基于 Python 开发的 Windows 端应用，利用百炼
 如果您有任何问题或想要了解更多关于 WordLLMChecker 的信息，请通过以下方式联系我们：
 
 - **邮箱**：hyyifan7@163.com
-- **GitHub 仓库**：[https://github.com/yourusername/WordLLMChecker](https://github.com/yourusername/WordLLMChecker)
+- **GitHub 仓库**：https://github.com/hyyifan/LLMWordCorrector
