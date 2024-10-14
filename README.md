@@ -18,9 +18,7 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 
 1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 LLMWordCorrector 应用：
 
-            通过百度网盘分享的文件：LLMWordCorrector.exe
-            链接：https://pan.baidu.com/s/1aAKecvyoC_5rOlcGvjKmPg?pwd=s3bc 
-            提取码：s3bc
+            链接: https://pan.baidu.com/s/1tPLH7ntzExda2xf3FoQtRQ?pwd=6qsr 提取码: 6qsr
 
 2. **上传文件**：打开应用，上传您的 docx 或 doc 格式文件。
 
