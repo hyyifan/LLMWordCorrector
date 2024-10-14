@@ -2,13 +2,13 @@
 
 ## 项目简介
 
-LLMWordCorrector 是一款基于 Python 开发的 Windows 端应用，主要是利用[阿里云百炼大模型 qwen-plus](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123CqDVFV#/model-market/detail/qwen-plus-latest)提供中文错词错句纠错功能。这款软件旨在帮助用户自动检测和纠正文档中的语法错误、错别字和用词不当，能够直接在原文上进行批注，从而提升文档的专业性和准确性。
+LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123CqDVFV#/model-market/detail/qwen-plus-latest)开发，提供中文文档审查功能。帮助用户自动检测和纠正文档中的错别字和用词不当，能够直接在原文上进行批注，帮助提升文档的专业性和准确性。
 
 ## 功能特点
 
-- **自动读取与分析**：用户只需上传 docx 或 doc 格式的文件，LLMWordCorrector 即可自动读取内容并分析潜在的语文错误。
+- **自动读取与分析**：用户上传 docx 或 doc 格式的文件，LLMWordCorrector 即可自动读取内容并分析潜在的文本错误。
 - **智能批注**：软件会在原文上直接进行批注，指出错误并提供修改建议，使错误一目了然。
-- **数据隐私保护**：本软件不做任何数据库存储，直接通过互联网，将您的文本交由 qwen-plus进行分析。
+- **数据隐私保护**：本软件不涉及数据存储，直接通过互联网，将您的文本切片交由 qwen-plus进行分析，如数据泄露，与本项目无关。
 
 ## 开源贡献
 
