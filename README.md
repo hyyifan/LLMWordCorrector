@@ -11,10 +11,6 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 - **数据隐私保护**：本软件不涉及数据存储，直接通过互联网，将您的文本切片交由 qwen-plus进行分析，如数据泄露，与本项目无关。
 - **价格优惠**: qwen-plus 价格每千tokens只需要0.0008元，分析2万字的文本，一次成本大约3分钱。
 
-## 开源贡献
-
-我们非常欢迎开源社区的贡献者参与到 LLMWordCorrector 的持续改进中来。如果您在使用过程中遇到任何问题，或者有任何改进建议，都欢迎通过 GitHub 的 Issue 功能提出。此外，我们也非常期待新朋友加入我们的维护团队，共同推动项目的发展。
-
 ## 如何使用
 1. **安装**：下载源代码在本地运行main.py，本程序已经打包，或可直接下载并安装 LLMWordCorrector 应用：
 
@@ -47,6 +43,10 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
    
    
    ![image](https://github.com/user-attachments/assets/c9b878be-4e9d-406f-a9f2-50bea1d43121)
+
+## 开源贡献
+
+我们非常欢迎开源社区的贡献者参与到 LLMWordCorrector 的持续改进中来。如果您在使用过程中遇到任何问题，或者有任何改进建议，都欢迎通过 GitHub 的 Issue 功能提出。此外，我们也非常期待新朋友加入我们的维护团队，共同推动项目的发展。
 
 
 ## 联系我们
