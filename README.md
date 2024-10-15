@@ -16,11 +16,9 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 
             链接: https://pan.baidu.com/s/1tPLH7ntzExda2xf3FoQtRQ?pwd=6qsr 提取码: 6qsr
 
-
 2. **上传文件**：打开应用，上传您的 docx 或 doc 格式文件。
 
     ![image](https://github.com/user-attachments/assets/19ee362d-6472-4d83-898e-94cc2460c073)
-
 
 3.**输入Qwen大模型key**: 前往[阿里云百炼大模型平台](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home)注册账号，获得，[api key](https://bailian.console.aliyun.com/?apiKey=1#/api-key)并进行输入。
   
@@ -28,9 +26,7 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
   
 4.**开始处理**：点击后软件即开始运行，运行过程之中请关注进度内容。
 
-
 5. **自动纠错**：软件将自动分析文件内容，并在原文上进行批注。
-
    
 6. **查看结果**：打开你的word文件，并关注进度内容。 目前存在技术难题，部分批注无法显示在word文件之中，需要在进度栏查看。
 
