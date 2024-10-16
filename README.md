@@ -1,4 +1,4 @@
-# LLMWordCorrector: 专业的文档纠错助手  from Risdc-GPT
+# LLMWordCorrector: 专业的文档纠错助手  from RISDC-GPT
 
 ## 项目简介
 
