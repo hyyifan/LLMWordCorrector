@@ -1,5 +1,5 @@
 # LLMWordCorrector from RISDC-GPT
-# 文档纠错助手
+文档纠错助手
 
 ## 项目简介
 
