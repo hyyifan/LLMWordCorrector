@@ -21,7 +21,7 @@ LLMWordCorrector 基于[阿里云百炼大模型 qwen-plus](https://bailian.cons
 
    ![image](https://github.com/user-attachments/assets/19ee362d-6472-4d83-898e-94cc2460c073)
 
-3. **输入API key**: 前往[阿里云百炼大模型平台](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home)注册账号，获得，[api key](https://bailian.console.aliyun.com/?apiKey=1#/api-key)并进行输入。
+3. **输入API key**: 前往[阿里云百炼大模型平台](https://bailian.console.aliyun.com/?spm=5176.29311086.J_RY_4Q8--sru4dMV7o3lqS.1.24873123nvuVmw#/home)注册账号，获得[api key](https://bailian.console.aliyun.com/?apiKey=1#/api-key)并进行输入。
   
    ![image](https://github.com/user-attachments/assets/9f8f4d74-ec4c-4029-9602-a88df6b9ea7d)
   
